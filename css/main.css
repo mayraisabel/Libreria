@@ -10,6 +10,28 @@
 }
 
 
+.logo{
+	background: yellow;
+	height: 80px;
+}
+
+.redes{
+	background: red;
+	height: 80px;
+	text-align: center;
+	padding-top: 28px;
+}
+
+.carrito{
+	background: magenta;
+	height: 80px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.carrito h5{
+	display: inline-block;
+}
 
 
 
